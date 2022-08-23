@@ -1,4 +1,2 @@
-# hello-world
-my first respository
-I am Babatunde Olaoluwa. I am a project manager and now a student of ALX
-I am enjoying the ALX programme
+# alx-pre_course
+I'm now a ALX Student, this is my first repository as a full-stack engineer
